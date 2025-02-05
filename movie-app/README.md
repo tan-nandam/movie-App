@@ -74,5 +74,5 @@ This is a React front-end movie search application that allows users to search f
 
 ## Deployment
 
-The app is deployed on Vercel using the Hobby plan. You can access the live app [here](https://your-app-name.vercel.app).
+The app is deployed on Vercel using the Hobby plan. You can access the live app [here](https://movie-app-neon-three-88.vercel.app/).
 
