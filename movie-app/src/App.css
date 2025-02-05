@@ -1,0 +1,25 @@
+h1 {
+  text-shadow: 4px 4px 10px rgba(255, 215, 0, 0.8);
+}
+
+body {
+  background: linear-gradient(to bottom, #141e30, #243b55);
+}
+
+input {
+  box-shadow: 0 0 15px rgba(255, 255, 255, 0.2);
+}
+
+body {
+  background-color: #1a1a2e;
+  color: #ffffff;
+  font-family: "Arial", sans-serif;
+}
+
+button {
+  transition: all 0.3s ease;
+}
+
+button:hover {
+  transform: scale(1.05);
+}
